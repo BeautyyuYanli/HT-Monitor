@@ -1,0 +1,7 @@
+Objects/
+Listings/
+.vscode/
+main.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+EventRecorderStub.scvd
